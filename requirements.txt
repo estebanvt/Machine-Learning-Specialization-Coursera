@@ -4,3 +4,4 @@ matplotlib
 Scikit-image
 tensorflow
 numpy
+sklearn
