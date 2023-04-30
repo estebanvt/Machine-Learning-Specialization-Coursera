@@ -5,3 +5,4 @@ Scikit-image
 tensorflow
 numpy
 sklearn
+ipympl
