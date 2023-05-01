@@ -6,3 +6,4 @@ tensorflow
 numpy
 sklearn
 ipympl
+Scikit-learn
